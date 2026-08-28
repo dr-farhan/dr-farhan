@@ -1,6 +1,23 @@
-- 👋 Hi, I’m Farhan, Ph.D. in Genetics, currently working as postdoc.
-- 👀 I’m interested in developing and implementing bioinformatic and computational biology tools to analyze NGS data 
-- 🌱 I’m currently learning and advancing my programming skills in R, Python and Bash to perform large scale data analysis mainly in genomics.
-- 💞️ I’m looking to collaborate on Genomics projects, mainly on transposable elements and DNA repeats.
-- 📫 Contact me on my Email: farhan.ahmad.bioinfo@gmail.com
-- 😄 Pronouns: HE/HIM
+Hi, I'm Farhan 👋
+
+I am a Genetics Ph.D. and Postdoctoral Researcher specializing in bioinformatics, computational genomics, and next-generation sequencing (NGS) data analysis.
+
+🧬 Research interestsBioinformatics • Computational Genomics • Cancer Genomics • Transposable Elements • Repetitive DNA • Transcriptomics • Epigenomics • Single-cell Genomics • Long-read Sequencing
+
+💻 What I work on
+
+Developing and implementing bioinformatics tools, pipelines, and reproducible workflows for large-scale genomic data analysis
+
+Analysis of bulk and single-cell RNA-seq, long-read sequencing, WGS, ATAC-seq, ChIP-seq, and other NGS datasets
+
+Computational characterization of transposable elements, repetitive sequences, and the non-coding genome
+
+Integrating multi-omics datasets to investigate gene regulation and genome biology in cancer
+
+Exploring AI-assisted bioinformatics and computational workflow development
+
+🛠️ Programming & computational toolsR • Python • Bash • Linux • Git/GitHub • Nextflow • HPC
+
+🤝 CollaborationI am interested in collaborating on projects involving genomics, cancer genomics, transposable elements, repetitive DNA, NGS analysis, and bioinformatics tool development.
+
+📫 Contactfarhan.ahmad.bioinfo@gmail.com
