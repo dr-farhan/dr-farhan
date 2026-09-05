@@ -16,9 +16,10 @@ Integrating multi-omics datasets to investigate gene regulation and genome biolo
 
 Exploring AI-assisted bioinformatics and computational workflow development
 
-🛠️ Programming & computational toolsR • Python • Bash • Linux • Git/GitHub • Nextflow • HPC
+🛠️ Programming & computational tools: R • Python • Bash • Linux • Git/GitHub • Nextflow • HPC
 
-🤝 CollaborationI am interested in collaborating on projects involving genomics, cancer genomics, transposable elements, repetitive DNA, NGS analysis, and bioinformatics tool development.
+🤝 Collaboration: I am interested in collaborating on projects involving genomics, cancer genomics, transposable elements, repetitive DNA, NGS analysis, and bioinformatics tool development.
 
 📫 Contact farhan.ahmad.bioinfo@gmail.com
 syed.ahmad@stjude.org
+farhan.phd.unesp@gmail.com
