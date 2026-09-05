@@ -2,7 +2,7 @@ Hi, I'm Farhan 👋
 
 I am a Genetics Ph.D. and Postdoctoral Researcher specializing in bioinformatics, computational genomics, and next-generation sequencing (NGS) data analysis.
 
-🧬 Research interestsBioinformatics • Computational Genomics • Cancer Genomics • Transposable Elements • Repetitive DNA • Transcriptomics • Epigenomics • Single-cell Genomics • Long-read Sequencing
+🧬 Research interests Bioinformatics • Computational Genomics • Cancer Genomics • Transposable Elements • Repetitive DNA • Transcriptomics • Epigenomics • Single-cell Genomics • Long-read Sequencing
 
 💻 What I work on
 
