@@ -20,4 +20,5 @@ Exploring AI-assisted bioinformatics and computational workflow development
 
 🤝 CollaborationI am interested in collaborating on projects involving genomics, cancer genomics, transposable elements, repetitive DNA, NGS analysis, and bioinformatics tool development.
 
-📫 Contactfarhan.ahmad.bioinfo@gmail.com
+📫 Contact farhan.ahmad.bioinfo@gmail.com
+syed.ahmad@stjude.org
